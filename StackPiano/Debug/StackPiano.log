@@ -1,0 +1,5 @@
+﻿  Source.cpp
+D:\Documents\Visual Studio\StackPiano\StackPiano\Source.cpp(75,27): warning C4018: '<': signed/unsigned mismatch
+D:\Documents\Visual Studio\StackPiano\StackPiano\Source.cpp(82,18): warning C4018: '<': signed/unsigned mismatch
+D:\Documents\Visual Studio\StackPiano\StackPiano\Source.cpp(229,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  StackPiano.vcxproj -> D:\Documents\Visual Studio\StackPiano\Debug\StackPiano.exe
